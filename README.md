@@ -1,13 +1,13 @@
 ### Hi there, I'm Mominul Islam 👋
 
-[![Website](https://img.shields.io/website?label=upwrok&style=for-the-badge&url=https%3A%2F%2Fupwork.com/freelancers/mominul)](https://www.upwork.com/freelancers/mominul)
+[![Website](https://img.shields.io/website?label=Upwork&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.upwork.com/freelancers/mominul)
 [![Twitter Follow](https://img.shields.io/twitter/follow/OfficialMominul?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Web Developer, Learner and Researcher!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🎯 2022 Goals: Establish a digital agency for my team
+- 👯 I’m looking to collaborate with long-term projects
+- 🥅 2022 Goals: Establish digital agency to provide web design services
 - ⚡ Fun fact: I love to play with web elements
 
 ### Connect with me:
@@ -59,21 +59,18 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
 </details>
 
 [website]: https://upwork.com/fl/mominul
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[course]: #
+[twitter]: https://twitter.com/OfficialMominul
+[youtube]: https://www.youtube.com/channel/UCjex4Ee4ESkRheMTfD9kvwg
+[instagram]: https://www.instagram.com/official.mominulislam/
+[linkedin]: https://www.linkedin.com/in/mominul-islam/
+[webdevplaylist]: #
+[jsplaylist]: #
+[cssplaylist]: #
+[reactplaylist]: #
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-shuvo&theme=algolia&show_icons=true)
