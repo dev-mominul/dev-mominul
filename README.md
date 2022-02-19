@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with long-term projects
-- 🥅 2022 Goals: Establish digital agency to provide web design services
+- 🎯 My mission is to help small businesses thrive.
 - ⚡ Fun fact: I love to play with web elements
 
 ### Languages and Tools:
