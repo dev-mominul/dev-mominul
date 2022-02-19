@@ -77,4 +77,4 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-shuvo)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-shuvo&theme=algolia&show_icons=true)
