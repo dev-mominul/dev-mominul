@@ -12,6 +12,7 @@
 
 ### Languages and Tools:
 
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -34,9 +35,7 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-</details>
+:zap: GitHub Stats
 
 [website]: https://upwork.com/fl/mominul
 [course]: #
@@ -51,6 +50,16 @@
 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-mominul&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mominul&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+:zap: Popular Repositories
+
+<a href="https://github.com/dev-mominul/oop-with-python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-mominul&theme=buefy&repo=oop-with-python" />
+</a>
+<a href="https://github.com/dev-mominul/diu-software-project-V">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-mominul&theme=buefy&repo=diu-software-project-V" />
+</a>
+
 
 ### Connect with me:
 
