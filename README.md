@@ -53,13 +53,12 @@
 
 :zap: Popular Repositories
 
-<a href="https://github.com/dev-mominul/oop-with-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-mominul&theme=buefy&repo=oop-with-python" />
-</a>
 <a href="https://github.com/dev-mominul/diu-software-project-V">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-mominul&theme=buefy&repo=diu-software-project-V" />
 </a>
-
+<a href="https://github.com/dev-mominul/dev-mominul">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-mominul&theme=buefy&repo=dev-mominul" />
+</a>
 
 ### Connect with me:
 
