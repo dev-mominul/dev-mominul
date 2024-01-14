@@ -40,7 +40,7 @@
 [website]: https://upwork.com/fl/mominul
 [course]: #
 [twitter]: https://twitter.com/OfficialMominul
-[youtube]: https://www.youtube.com/channel/UCjex4Ee4ESkRheMTfD9kvwg
+[youtube]: https://www.youtube.com/@officialmominul
 [instagram]: https://www.instagram.com/official.mominulislam/
 [linkedin]: https://www.linkedin.com/in/mominul-islam/
 [webdevplaylist]: #
