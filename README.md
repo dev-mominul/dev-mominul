@@ -5,10 +5,10 @@
 
 ## Project Manager at ShiftWeb 🚀
 
-I lead and coordinate web projects from concept to delivery — bridging the gap between teams, clients, and clean, maintainable code. I started out as a web developer, so I still love getting hands-on and keeping my skills sharp.
+I lead and coordinate web projects from concept to delivery - bridging the gap between teams, clients, and clean, maintainable code. I started out as a web developer, so I still love getting hands-on and keeping my skills sharp.
 
 - 🧩 I manage end-to-end web projects at **ShiftWeb**
-- 🌱 Always learning — from new frameworks to better delivery workflows
+- 🌱 Always learning - from new frameworks to better delivery workflows
 - 🤖 I love AI and constantly learn it to build new and exciting things
 - 🛠️ This GitHub is home to my personal projects and experiments
 - ⚡ Fun fact: I love to play with web elements
