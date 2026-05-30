@@ -28,13 +28,6 @@ I lead and coordinate web projects from concept to delivery — bridging the gap
 
 ---
 
-### 📌 Featured Projects
-
-- **[DIU Software Project V](https://github.com/dev-mominul/diu-software-project-V)** — _add a one-line description here_
-- **[dev-mominul](https://github.com/dev-mominul/dev-mominul)** — profile configuration repo
-
-> 💡 Tip: Pin these on your profile using the **"Customize your pins"** button at the top of your GitHub profile page — it's more reliable than card images and updates automatically.
-
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mominul-islam/)
