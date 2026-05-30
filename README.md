@@ -9,6 +9,7 @@ I lead and coordinate web projects from concept to delivery — bridging the gap
 
 - 🧩 I manage end-to-end web projects at **ShiftWeb**
 - 🌱 Always learning — from new frameworks to better delivery workflows
+- 🤖 I love AI and constantly learn it to build new and exciting things
 - 🛠️ This GitHub is home to my personal projects and experiments
 - ⚡ Fun fact: I love to play with web elements
 
